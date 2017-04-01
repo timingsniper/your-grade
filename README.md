@@ -1,6 +1,6 @@
 ## your name. 
 
-![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
+![Alt Text](https://github.com/timingsniper/your-grade.-SMIC-Student-Tools-/blob/master/your%20grade.png)
 
 your name. is a program of SMIC Student Tools for SMIC Students to get their minimum final exam grade required for a certain letter grade.
 
