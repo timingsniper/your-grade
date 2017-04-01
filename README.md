@@ -20,6 +20,7 @@ Mac Version
 Windows Version (Ran on Mac on wine)
 
 Mac version: https://github.com/timingsniper/your-grade./blob/master/your%20grade..app.zip
+
 Windows Version: https://github.com/timingsniper/your-grade./blob/master/your%20grade.exe
 
 Click on "Download"
@@ -42,8 +43,21 @@ Feel free to email/wechat me if there are problems regarding installation. Take 
 
 Q: How do you use this?
 
-A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press calculate button.
+A: 1. At the Category Weightage/Weight category, enter the weightage of each category. (Ex: 30% for Quiz -> Enter 30)
 
-Q: Are you planning on releasing this for other platforms as well?
+   2. At the Grade/Category grade category, enter the grade you got in that category, in percentage. (Ex: 90% for quiz     
+      overall-> enter 90)
+      
+   3. Hit calculate and you will see the minimum final exam grade required to get each letter grade.
 
-A: Most likely iPhone. Stay tuned.
+Q: What does N/A mean? 
+
+A: It means the grade you have to get is below 0 or above 100, showing it is impossible to get that letter grade.
+
+## Contact
+
+Email: smicjangpercy@hotmail.com (Percy, Mac version inquiry) choithomas99@yahoo.com (Thomas, Windows version inquiry)
+
+Wechat: jjw8386 (Percy), riceghost99 (Thomas)
+
+Please take a look at the website:)
