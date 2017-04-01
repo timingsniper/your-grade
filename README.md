@@ -25,9 +25,11 @@ Windows Version: https://github.com/timingsniper/your-grade./blob/master/your%20
 
 Click on "Download"
 
-Mac: For installation, move the WeightedGAPP.app file to "Applications" folder. Windows: Save the exe file somewhere you know and launch it whenever necessary.
+Mac: For installation, move the your grade..app file to "Applications" folder. 
 
-Mac: If you are stuck with error saying "unidentified developer", follow the following guide:
+Windows: Save the exe file somewhere you know and launch it whenever necessary.
+
+If you are stuck with error saying "unidentified developer", follow the following guide:
 
 Open your Mac settings, go to Security & Privacy (House-shaped icon, Korean: 보안 및 개인정보 보호, Chinese: 安全与隐私)
 
