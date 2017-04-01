@@ -1,4 +1,7 @@
 ## your name. 
+
+![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
+
 your name. is a program of SMIC Student Tools for SMIC Students to get their minimum final exam grade required for a certain letter grade.
 
 Mac version created by Percy Joonwoo Jang, Windows version created by Thomas Jaeuk Choi.
