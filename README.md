@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## your name. 
+your name. is a program of SMIC Student Tools for SMIC Students to get their minimum final exam grade required for a certain letter grade.
 
-You can use the [editor on GitHub](https://github.com/timingsniper/your-grade.-SMIC-Student-Tools-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mac version created by Percy Joonwoo Jang, Windows version created by Thomas Jaeuk Choi.
 
 ### Markdown
 
